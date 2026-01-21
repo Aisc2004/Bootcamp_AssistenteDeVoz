@@ -5,7 +5,7 @@ criação de uma assistente de voz que captura áudio do microfone, transcreve u
 
 **Linguagens:** Python e JavaScript
 
-Caso deseja replicar esse projeto, as bibliotecas instaladas foram:
+**Bibliotecas**
 - pip install sounddevice
 - pip install scipy 
 - pip install openai-whisper 
@@ -14,6 +14,8 @@ Caso deseja replicar esse projeto, as bibliotecas instaladas foram:
 - pip install pygame 
 - pip install setuptools-rust 
 - pip install python-dotenv
-- choco install ffmpeg
+
+**Excute no Windows**: choco install ffmpeg
+
 
 
