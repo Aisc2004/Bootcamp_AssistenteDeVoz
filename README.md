@@ -2,7 +2,8 @@
 
 **Desafio 02 do Bootcamp do Bradesco com a DIO**
 
-Linguagens: Python e JavaScript
+**Linguagens:** Python e JavaScript
+
 Caso deseja replicar esse projeto, as bibliotecas instaladas foram:
 - pip install sounddevice
 - pip install scipy 
@@ -13,3 +14,4 @@ Caso deseja replicar esse projeto, as bibliotecas instaladas foram:
 - pip install setuptools-rust 
 - pip install python-dotenv
 - choco install ffmpeg
+
